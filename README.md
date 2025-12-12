@@ -5,9 +5,6 @@
 <h1 align="center"> Rafael Borges</h1>
 <h3 align="center">Desenvolvedor fullstak </h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/142857378?v=4" width="160" style="border-radius:50%;" alt="Foto do Rafael Borges" />
-</p>
 
 ---
 ## 📊 GitHub Overview
