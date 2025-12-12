@@ -2,11 +2,11 @@
 <!-- PERFIL DO RAFAEL BORGES -->
 <!-- ======================== -->
 
-<h1 align="center">👋 Olá! Eu sou o Rafael Borges</h1>
+<h1 align="center"> Rafael Borges</h1>
 <h3 align="center">Desenvolvedor fullstak </h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/180617169?v=4" width="160" style="border-radius:50%;" alt="Foto do Rafael Borges" />
+  <img src="https://avatars.githubusercontent.com/u/142857378?v=4" width="160" style="border-radius:50%;" alt="Foto do Rafael Borges" />
 </p>
 
 ---
@@ -26,7 +26,12 @@
 ## 🔥 Sequência de Commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raffaeel&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raffaeel&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffaeel&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raffaeel&theme=tokyonight" />
 </p>
 
 ---
