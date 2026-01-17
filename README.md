@@ -90,4 +90,3 @@
 
 ---
 
-<p align="center">✨ Feito com foco, disciplina e evolução constante ✨</p>
