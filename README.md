@@ -3,7 +3,7 @@
 <!-- ======================== -->
 
 <h1 align="center"> Rafael Borges</h1>
-<h3 align="center">Desenvolvedor front en </h3>
+<h3 align="center">Desenvolvedor front end </h3>
 
 
 ---
