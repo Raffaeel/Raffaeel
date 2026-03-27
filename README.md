@@ -39,8 +39,8 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (último ano).  
-- 💻 Experiência com **HTML, CSS, JavaScript, Node.js e React Native**.  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** .  
+- 💻 Experiência com **HTML, CSS, JavaScript, Node.js , React e bootstrap **.  
 - 📊 Já trabalhei com **análise de dados, suporte técnico e controle de estoque**.  
 - 🚀 Objetivo: dominar **Full Stack + Mobile**.  
 - 🧩 Focado em lógica, APIs, backend e boas práticas.
@@ -49,9 +49,9 @@
 
 ## 📌 Projetos em Destaque
 
-🔗[explosao-de-sabores](https://github.com/Raffaeel/EXPLOSAO--DE--SABORES--DA--VAL)
-🔗 [Calculadora HTML/CSS/JS](https://github.com/Raffaeel/calculadora-simples)  
-🔗 [Lucky — jogo do dado](https://github.com/Raffaeel/lucky)  
+🔗[casa de mamãe](https://github.com/Raffaeel/casa-de-mamae)
+🔗 [psycare](https://github.com/Raffaeel/psycare)  
+
 ## 🧩 Projetos Recentes
 
 ### 🏠 CasaPsico
