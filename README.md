@@ -171,7 +171,7 @@ https://github.com/Raffaeel
 
 ---
 
-# 📚 Outros Projetos
+# 📚 Outros Projetos(estudo)
 
 - 🍽️ Explosão de Sabores
 - ✅ To-Do List
