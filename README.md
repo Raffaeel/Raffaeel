@@ -62,7 +62,7 @@ Atualmente desenvolvendo projetos reais para clientes, sempre buscando evoluir c
 🚧 **Status:** Em desenvolvimento
 
 <p align="center">
-<img src="./assets/guia-verde.png" width="800" alt="Guia Verde"/>
+<img src="https://github.com/Raffaeel/Guia-verde/blob/main/Captura%20de%20tela%202026-06-24%20190754.png" width="800" alt="Guia Verde"/>
 </p>
 
 Sistema desenvolvido para um condomínio com o objetivo de aproximar moradores e colaboradores das áreas verdes, apresentando informações sobre plantas, árvores, jardins e espaços comuns de forma moderna e intuitiva.
