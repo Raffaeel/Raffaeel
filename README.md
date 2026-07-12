@@ -121,7 +121,7 @@ https://github.com/Raffaeel/CASA-DE-MAMAE
 💼 **Sistema de Gestão para Clínicas Psicológicas**
 
 <p align="center">
-<img src="./assets/psycare.png" width="800" alt="PsyCare"/>
+<img src="https://github.com/Raffaeel/psycare/blob/main/Captura%20de%20tela%202026-07-12%20123036.png" width="800" alt="PsyCare"/>
 </p>
 
 Sistema desenvolvido para auxiliar clínicas psicológicas no gerenciamento de pacientes, consultas, relatórios e painel administrativo.
