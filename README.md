@@ -144,7 +144,7 @@ https://github.com/Raffaeel/psycare
 💼 **Projeto desenvolvido para cliente real**
 
 <p align="center">
-<img src="./assets/casapsico.png" width="800" alt="CasaPsico"/>
+<img src="https://raffaeel.github.io/BORGES/casapsico.png" width="800" alt="CasaPsico"/>
 </p>
 
 Sistema desenvolvido para atender às necessidades de um cliente, oferecendo uma solução moderna e intuitiva.
