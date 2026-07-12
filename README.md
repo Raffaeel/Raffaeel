@@ -49,7 +49,7 @@
 
 ## 📌 Projetos em Destaque
 
-🔗[casa de mamãe](https://github.com/Raffaeel/casa-de-mamae)
+🔗[casa de mamãe](https://github.com/Raffaeel/CASA-DE-MAMAE/blob/main/Captura%20de%20tela%202026-07-12%20112041.png)
 🔗 [psycare](https://github.com/Raffaeel/psycare)  
 
 ## 🧩 Projetos Recentes
@@ -59,7 +59,7 @@
   width="250" 
   height="250" 
   alt="casapsico" 
-  src="https://github.com/Raffaeel/CASA-DE-MAMAE/blob/main/Captura%20de%20tela%202026-07-12%20112041.png"
+  src=""
 />
 
 ---
