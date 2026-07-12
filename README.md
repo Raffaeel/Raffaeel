@@ -85,7 +85,7 @@ https://github.com/Raffaeel/Guia-verde
 💼 **Projeto desenvolvido para cliente real**
 
 <p align="center">
-<img src="./assets/casa-de-mamae.png" width="800" alt="Casa de Mamãe"/>
+<img src="https://github.com/Raffaeel/CASA-DE-MAMAE/blob/main/Captura%20de%20tela%202026-07-12%20112041.png" width="800" alt="Casa de Mamãe"/>
 </p>
 
 Sistema de pedidos online desenvolvido para automatizar o atendimento, permitindo que clientes realizem pedidos de forma simples e enviem automaticamente as encomendas pelo WhatsApp.
