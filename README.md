@@ -160,7 +160,7 @@ https://github.com/godoigleycecordeiro/casapsico
 💼 **Projeto desenvolvido para cliente real**
 
 <p align="center">
-<img src="./assets/fry-tattoo.png" width="800" alt="Fry Tattoo"/>
+<img src="https://github.com/Raffaeel/Fry-Tattoo/blob/main/Captura%20de%20tela%202026-07-12%20120356.png" width="800" alt="Fry Tattoo"/>
 </p>
 
 Landing Page desenvolvida para divulgação de estúdio de tatuagem, com foco em identidade visual, responsividade e experiência do usuário.
