@@ -59,7 +59,7 @@
   width="250" 
   height="250" 
   alt="casapsico" 
-  src="https://github.com/user-attachments/assets/30c47291-58a6-4c7a-9cf8-680bb1f9659b"
+  src="https://github.com/Raffaeel/CASA-DE-MAMAE/blob/main/Captura%20de%20tela%202026-07-12%20112041.png"
 />
 
 ---
