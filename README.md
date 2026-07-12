@@ -4,7 +4,7 @@
 <!-- PERFIL DO RAFAEL BORGES -->
 <!-- ======================== -->
 
-<h1 align="center">👋 Rafael Borges Oliveira</h1>
+<h1 align="center"> Rafael Borges Oliveira</h1>
 
 <h3 align="center">
 Desenvolvedor Front-end | JavaScript | React | Node.js | APIs REST
